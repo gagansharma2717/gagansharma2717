@@ -5,9 +5,9 @@
   <li> Google Certifed Associate Cloud Engineer </li>
   <li> Working on microservices using java, springboot framework, jsp, maven </li>
   <li> Also using SoapUi and Postman for API Testing </li>
-  <li> Manages deployments on linux server as well as google cloud </li>
+  <li> Manages deployments on linux server as well as on google cloud </li>
   <li> Also manages Changes process in ServiceNow </li>
-  <li> Currently Learning MERN Stack </li> 
+  <li> Currently learning MERN Stack </li> 
 </ul>
 <!--
 **gagansharma2717/gagansharma2717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
