@@ -1,6 +1,7 @@
-# Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m currently working in Tata Consultancy Services(TCS) as a Software Developer.         <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+# Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m currently working in Tata Consultancy Services(TCS) as a Software Developer.
+## LinkedIn :-https://www.linkedin.com/in/gagansharma2717
 
-### My Tech Stack <img src="images\tech_stack.png" alt="tech-stack" width="20" height="20"/>
+## My Tech Stack <img src="images\tech_stack.png" alt="tech-stack" width="30" height="20"/>
 <p align="left">
   <img src="images\java.png" alt="java" width="40" height="40"/>
   <img src="images\gcp.png" alt="gcp" width="40" height="40"/>
