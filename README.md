@@ -15,14 +15,14 @@
 </p>
 
 <ul>
-  <li> My primary coding language : Java </li>
-  <li> Google Certifed Associate Cloud Engineer </li>
-  <li> Working on microservices using java, maven and springboot framework</li>
-  <li> Managing application deployments on linux server as well as on google cloud </li>
-  <li> Knowledge of CICD tools such as GOCD, Jenkins etc </li>
-  <li> Using SoapUI and Postman for API Testing </li>
-  <li> Also manages Change Management process in ServiceNow </li>
-  <li> Currently learning MERN Stack </li> 
+  <li> My primary coding language : <b>Java</b>.</li>
+  <li> I am </b>Google Certifed Associate Cloud Engineer</b>.</li>
+  <li> Working on <b>Microservices using Java, Maven and SpringBoot framework</b>.</li>
+  <li> Managing <b>application deployments</b> on <b>Linux Server</b> as well as on <b>Google Cloud</b>.</li>
+  <li> Knowledge of <b>CI/CD</b> tools such as <b>GoCD, Jenkins</b> etc.</li>
+  <li> Using <b>SoapUI</b> and <b>Postman</b> for <b>API Testing</b>.</li>
+  <li> Managing <b>Change Management</b> process in <b>ServiceNow</b>.</li>
+  <li> Currently, learning <b>MERN Stack</b>.</li> 
 </ul>
 <!--
 **gagansharma2717/gagansharma2717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
