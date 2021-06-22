@@ -1,5 +1,5 @@
 # Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m currently working in Tata Consultancy Services(TCS) as a Software Developer.
-## LinkedIn :-https://www.linkedin.com/in/gagansharma2717
+### LinkedIn :-https://www.linkedin.com/in/gagansharma2717
 
 ## My Tech Stack <img src="images\tech_stack.png" alt="tech-stack" width="30" height="20"/>
 <p align="left">
