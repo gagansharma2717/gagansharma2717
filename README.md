@@ -1,6 +1,6 @@
 # Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m currently working in Tata Consultancy Services as a Software Developer.
 
-### My Tech Stack <img src="images\tech_stack.png" alt="tech-stack" width="30" height="30"/>
+### My Tech Stack <img src="images\tech_stack.png" alt="tech-stack" width="20" height="20"/>
 <p align="left">
   <img src="images\java.png" alt="java" width="40" height="40"/>
   <img src="images\gcp.png" alt="gcp" width="40" height="40"/>
