@@ -1,5 +1,7 @@
 # Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m currently working in Tata Consultancy Services as a Software Developer.
 
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
 <ul>
   <li> My primary coding language : Java </li>
   <li> Google Certifed Associate Cloud Engineer </li>
