@@ -1,4 +1,8 @@
-### Hi, I’m currently working in Tata Consultancy Services as a Software Developer
+### Hi, I’m currently working in Tata Consultancy Services as a Software Developer where i am working on microservices using java, springboot framework, jsp, maven. I am also <b>Google Certified Associate Cloud Engineer</b>.Also using SoapUi and Postman for API Testing.
+
+<ul>
+  <li> My primary coding language : Java </li>
+  <li> Google Certifed Associate Cloud Engineer </li>
 
 <!--
 **gagansharma2717/gagansharma2717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
