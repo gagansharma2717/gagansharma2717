@@ -16,7 +16,7 @@
 
 <ul>
   <li> My primary coding language : <b>Java</b>.</li>
-  <li> I am </b>Google Certifed Associate Cloud Engineer</b>.</li>
+  <li> I am a <b>Google Certifed Associate Cloud Engineer</b>.</li>
   <li> Working on <b>Microservices using Java, Maven and SpringBoot framework</b>.</li>
   <li> Managing <b>application deployments</b> on <b>Linux Server</b> as well as on <b>Google Cloud</b>.</li>
   <li> Knowledge of <b>CI/CD</b> tools such as <b>GoCD, Jenkins</b> etc.</li>
