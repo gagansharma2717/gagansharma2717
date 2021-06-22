@@ -15,7 +15,7 @@
 <ul>
   <li> My primary coding language : Java </li>
   <li> Google Certifed Associate Cloud Engineer </li>
-  <li> Working on microservices using java, springboot framework, jsp, maven </li>
+  <li> Working on microservices using java, springboot framework and maven </li>
   <li> Also using SoapUi and Postman for API Testing </li>
   <li> Manages application deployments on linux server as well as on google cloud </li>
   <li> Also manages Changes process in ServiceNow </li>
