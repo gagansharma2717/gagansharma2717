@@ -2,7 +2,7 @@
 
 ### My Tech Stack 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="images\git.png" alt="git" width="40" height="40"/> 
 </p>
 <ul>
   <li> My primary coding language : Java </li>
