@@ -1,16 +1,16 @@
 # Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m currently working in Tata Consultancy Services as a Software Developer.
 
-### My Tech Stack <img src="images\Tech-Stack.png" alt="tech-stack" width="40" height="40"/>
+### My Tech Stack <img src="images\tech_stack.png" alt="tech-stack" width="40" height="40"/>
 <p align="left">
   <img src="images\java.png" alt="java" width="40" height="40"/>
   <img src="images\gcp.png" alt="gcp" width="40" height="40"/>
   <img src="images\git.png" alt="git" width="40" height="40"/>
   <img src="images\html.png" alt="html" width="40" height="40"/>
   <img src="images\css.png" alt="css" width="40" height="40"/>
-  <img src="images\13691885491579517854-512.png" alt="javascript" width="40" height="40"/>
+  <img src="images\javascript.png" alt="javascript" width="40" height="40"/>
   <img src="images\bootstrap.png" alt="bootstrap" width="40" height="40"/>
   <img src="images\postman.png" alt="postman" width="40" height="40"/>
-  <img src="images\soapui-logo.png" alt="soapui" width="40" height="40"/>
+  <img src="images\soapui.png" alt="soapui" width="40" height="40"/>
 </p>
 <ul>
   <li> My primary coding language : Java </li>
