@@ -1,4 +1,4 @@
-# Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m currently working in Tata Consultancy Services as a Software Developer.
+# Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m currently working in Tata Consultancy Services(TCS) as a Software Developer.
 
 ### My Tech Stack <img src="images\tech_stack.png" alt="tech-stack" width="20" height="20"/>
 <p align="left">
