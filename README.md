@@ -1,9 +1,14 @@
-# Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m currently working in Tata Consultancy Services as a Software Developer where i am working on microservices using java, springboot framework, jsp, maven. I am also <strong>Google Certified Associate Cloud Engineer</strong>.Also using SoapUi and Postman for API Testing.
+# Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m currently working in Tata Consultancy Services as a Software Developer.
 
 <ul>
   <li> My primary coding language : Java </li>
   <li> Google Certifed Associate Cloud Engineer </li>
-
+  <li> Working on microservices using java, springboot framework, jsp, maven </li>
+  <li> Also using SoapUi and Postman for API Testing </li>
+  <li> Manages deployments on linux server as well as google cloud </li>
+  <li> Also manages Changes process in ServiceNow <li>
+  <li> Currently Learning MERN Stack </li> 
+</ul>
 <!--
 **gagansharma2717/gagansharma2717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
