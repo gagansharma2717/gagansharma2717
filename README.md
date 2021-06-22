@@ -6,7 +6,7 @@
   <li> Working on microservices using java, springboot framework, jsp, maven </li>
   <li> Also using SoapUi and Postman for API Testing </li>
   <li> Manages deployments on linux server as well as google cloud </li>
-  <li> Also manages Changes process in ServiceNow <li>
+  <li> Also manages Changes process in ServiceNow </li>
   <li> Currently Learning MERN Stack </li> 
 </ul>
 <!--
