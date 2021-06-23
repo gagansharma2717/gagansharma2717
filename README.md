@@ -1,6 +1,6 @@
 # Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m currently working in Tata Consultancy Services(TCS) as a Software Developer. 
 
-## My Tech Stack <img src="images\tech_stack.png" alt="tech-stack" width="30" height="20"/>
+<h2> My Tech Stack <img src="images\tech_stack.png" alt="tech-stack" width="30" height="20"/> </h2>
 <p align="left">
   <img src="images\java.png" alt="java" width="40" height="40"/>
   <img src="images\vscode.png" alt="vscode" width="40" height="40"/>
@@ -24,9 +24,12 @@
   <li> Managing <b>Change Management</b> process in <b>ServiceNow</b>.</li>
   <li> Currently learning <b>MERN Stack</b>.</li> 
 </ul>
- 
+<hr>
+<p align = "center">
   <a href="https://linkedin.com/in/gagansharma2717/" target="blank"><img align="center" src="images\linkedin.png" alt="gagansharma2717" height="20" width="20" /></a>
-
+  <a href="mailto:gagansharma2717@gmail.com" target="blank"><img align="center" src="images\gmail.png" alt="gagansharma2717" height="20" width="20" /></a>  
+  <a href="https://fb.com/gagansharma276/" target="blank"><img align="center" src="images\facebook.png" alt="gagansharma2717" height="20" width="20" /></a>  
+</p>
 
 <!--
 **gagansharma2717/gagansharma2717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
