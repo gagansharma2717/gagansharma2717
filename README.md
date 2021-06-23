@@ -1,5 +1,4 @@
 # Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m currently working in Tata Consultancy Services(TCS) as a Software Developer. 
-### <img src="images\linkedin.png" alt="java" width="15" height="15"/> :- https://www.linkedin.com/in/gagansharma2717/
 
 ## My Tech Stack <img src="images\tech_stack.png" alt="tech-stack" width="30" height="20"/>
 <p align="left">
@@ -25,6 +24,10 @@
   <li> Managing <b>Change Management</b> process in <b>ServiceNow</b>.</li>
   <li> Currently learning <b>MERN Stack</b>.</li> 
 </ul>
+ 
+  <a href="https://linkedin.com/in/gagansharma2717/" target="blank"><img align="center" src="images\linkedin.png" alt="gagansharma2717" height="20" width="20" /></a>
+
+
 <!--
 **gagansharma2717/gagansharma2717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
