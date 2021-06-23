@@ -1,4 +1,6 @@
 # Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m currently working in Tata Consultancy Services(TCS) as a Software Developer. 
+<a href="https://linkedin.com/in/gagansharma2717/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="gagansharma2717" height="30" /></a>
+<a href="mailto:gagansharma2717@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logogmail&logoColor=white" alt="gagansharma2717" height="30" /></a>
 
 <h2> My Tech Stack <img src="images\tech_stack.png" alt="tech-stack" width="30" height="20"/> </h2>
 <p align="left">
@@ -24,13 +26,7 @@
   <li> Managing <b>Change Management</b> process in <b>ServiceNow</b>.</li>
   <li> Currently learning <b>MERN Stack</b>.</li> 
 </ul>
-<hr>
-<p align = "center">
-  <a href="https://linkedin.com/in/gagansharma2717/" target="blank"><img align="center" src="images\linkedin.png" alt="gagansharma2717" height="20" width="20" /></a>
-  <a href="mailto:gagansharma2717@gmail.com" target="blank"><img align="center" src="images\gmail.png" alt="gagansharma2717" height="20" width="20" /></a>  
-  <a href="https://fb.com/gagansharma276/" target="blank"><img align="center" src="images\facebook.png" alt="gagansharma276" height="20" width="20" /></a>  
-</p>
-
+    
 <!--
 **gagansharma2717/gagansharma2717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
