@@ -28,7 +28,7 @@
 <p align = "center">
   <a href="https://linkedin.com/in/gagansharma2717/" target="blank"><img align="center" src="images\linkedin.png" alt="gagansharma2717" height="20" width="20" /></a>
   <a href="mailto:gagansharma2717@gmail.com" target="blank"><img align="center" src="images\gmail.png" alt="gagansharma2717" height="20" width="20" /></a>  
-  <a href="https://fb.com/gagansharma276/" target="blank"><img align="center" src="images\facebook.png" alt="gagansharma2717" height="20" width="20" /></a>  
+  <a href="https://fb.com/gagansharma276/" target="blank"><img align="center" src="images\facebook.png" alt="gagansharma276" height="20" width="20" /></a>  
 </p>
 
 <!--
