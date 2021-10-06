@@ -22,7 +22,7 @@
   <li> Working on <b>Microservices using Java, Maven and Spring Boot framework</b>.</li>
   <li> Managing <b>application deployments</b> on <b>Linux Servers</b> as well as on <b>Google Cloud</b>.</li>
   <li> Knowledge of <b>CI/CD</b> tools such as <b>GoCD, Jenkins</b> etc.</li>
-  <li> Using <b>SoapUI</b> and <b>Postman</b> for <b>API Testing</b>.</li>
+  <li> <b>API Testing</b> using <b>SoapUI</b> and <b>Postman</b> .</li>
   <li> Managing <b>Change Management</b> process in <b>ServiceNow</b>.</li>
   <li> Currently learning <b>MERN Stack</b>.</li> 
 </ul>
