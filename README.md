@@ -18,10 +18,12 @@
   <li> My primary coding language is <b>Java</b>.</li>
   <li> I am a <b>Google Certifed Associate Cloud Engineer</b>.</li>
   <li> Working on <b>Microservices using Java, Maven and Spring Boot framework</b>.</li>
+  <li> Working on <b>Spring Restful Services and Spring Batches</b>.</li>
   <li> Managing <b>application deployments</b> on <b>Linux Servers</b> as well as on <b>Google Cloud</b>.</li>
   <li> Knowledge of <b>CI/CD</b> tools such as <b>GoCD, Jenkins</b> etc.</li>
   <li> <b>API Testing</b> using <b>SoapUI</b> and <b>Postman</b> .</li>
   <li> Managing <b>Change Management</b> process in <b>ServiceNow</b>.</li>
+  <li> Practicising Problem Solving on <b>LeetCode</b> <b> & GeeksforGeeks</b>.</li>
 </ul>
 <img src = "https://github-readme-stats.vercel.app/api?username=gagansharma2717&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
