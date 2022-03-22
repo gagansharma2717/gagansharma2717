@@ -1,4 +1,4 @@
-# Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m currently working in Tata Consultancy Services(TCS) as a Software Developer. 
+# Hi there,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m currently working in Publicis Sapient as a Software Developer II. 
 <a href="https://linkedin.com/in/gagansharma2717/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="gagansharma2717" height="30" /></a>
 <a href="mailto:gagansharma2717@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=for-the-badge&logogmail&logoColor=white" alt="gagansharma2717" height="30" /></a>
 
