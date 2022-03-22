@@ -10,10 +10,6 @@
   <img src="images\vscode.png" alt="vscode" width="40" height="40"/>
   <img src="images\gcp.png" alt="gcp" width="40" height="40"/>
   <img src="images\git.png" alt="git" width="40" height="40"/>
-  <img src="images\html.png" alt="html" width="40" height="40"/>
-  <img src="images\css.png" alt="css" width="40" height="40"/>
-  <img src="images\javascript.png" alt="javascript" width="40" height="40"/>
-  <img src="images\bootstrap.png" alt="bootstrap" width="40" height="40"/>
   <img src="images\postman.png" alt="postman" width="40" height="40"/>
   <img src="images\soapui.png" alt="soapui" width="40" height="40"/>
 </p>
