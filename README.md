@@ -5,6 +5,8 @@
 <h2> My Tech Stack <img src="images\tech_stack.png" alt="tech-stack" width="30" height="20"/> </h2>
 <p align="left">
   <img src="images\java.png" alt="java" width="40" height="40"/>
+  <img src="images\idea.png" alt="soapui" width="40" height="40"/>
+  <img src="images\spring.png" alt="soapui" width="40" height="40"/>
   <img src="images\vscode.png" alt="vscode" width="40" height="40"/>
   <img src="images\gcp.png" alt="gcp" width="40" height="40"/>
   <img src="images\git.png" alt="git" width="40" height="40"/>
