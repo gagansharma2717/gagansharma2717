@@ -5,13 +5,16 @@
 <h2> My Tech Stack <img src="images\tech_stack.png" alt="tech-stack" width="30" height="20"/> </h2>
 <p align="left">
   <img src="images\java.png" alt="java" width="40" height="40"/>
-  <img src="images\idea.png" alt="soapui" width="40" height="40"/>
-  <img src="images\spring.png" alt="soapui" width="40" height="40"/>
+  <img src="images\idea.png" alt="idea" width="40" height="40"/>
+  <img src="images\spring.png" alt="spring" width="40" height="40"/>
+  <img src="images\api.png" alt="api" width="40" height="40"/>
   <img src="images\vscode.png" alt="vscode" width="40" height="40"/>
+  <img src="images\mysql.png" alt="mysql" width="40" height="40"/>
   <img src="images\gcp.png" alt="gcp" width="40" height="40"/>
   <img src="images\git.png" alt="git" width="40" height="40"/>
   <img src="images\postman.png" alt="postman" width="40" height="40"/>
-  <img src="images\soapui.png" alt="soapui" width="40" height="40"/>
+  <img src="images\docker.png" alt="docker" width="40" height="40"/>
+  <img src="images\gke.png" alt="docker" width="40" height="40"/>
 </p>
 
 <ul>
@@ -19,7 +22,7 @@
   <li> I am a <b>Google Certifed Associate Cloud Engineer</b>.</li>
   <li> Working on <b>Microservices using Java, Maven and Spring Boot framework</b>.</li>
   <li> Working on <b>Spring Restful Services and Spring Batches</b>.</li>
-  <li> Managing <b>application deployments</b> on <b>Linux Servers</b> as well as on <b>Google Cloud</b>.</li>
+  <li> Managed <b>application deployments</b> on <b>Linux Servers</b> as well as on <b>Google Cloud</b> in Lower Environments.</li>
   <li> Knowledge of <b>CI/CD</b> tools such as <b>GoCD, Jenkins</b> etc.</li>
   <li> <b>API Testing</b> using <b>SoapUI</b> and <b>Postman</b> .</li>
   <li> Managing <b>Change Management</b> process in <b>ServiceNow</b>.</li>
