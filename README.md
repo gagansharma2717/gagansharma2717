@@ -23,8 +23,7 @@
   <li> Working on <b>Spring Restful Services and Spring Batch</b>.</li>
   <li> Managed <b>application deployments</b> on <b>Linux Servers</b> as well as on <b>Google Cloud</b> in Lower Environments.</li>
   <li> Knowledge of <b>CI/CD</b> tools such as <b>GoCD, Jenkins</b> etc.</li>
-  <li> <b>API Testing</b> using <b>SoapUI</b> and <b>Postman</b> .</li>
-  <li> Managing <b>Change Management</b> process in <b>ServiceNow</b>.</li>
+  <li> Managed <b>Change Management</b> process in <b>ServiceNow</b>.</li>
   <li> Working on Problem Solving Skills on <b>LeetCode</b> <b> & GeeksforGeeks</b>.</li>
 </ul>
 <img src = "https://github-readme-stats.vercel.app/api?username=gagansharma2717&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
