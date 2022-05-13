@@ -19,8 +19,8 @@
 <ul>
   <li> My primary coding language is <b>Java</b>.</li>
   <li> I am a <b>Google Certifed Associate Cloud Engineer</b>.</li>
-  <li> Working on <b>Microservices using Java, Maven and Spring Boot framework</b>.</li>
-  <li> Working on <b>Spring Restful Services and Spring Batches</b>.</li>
+  <li> Working on <b>Microservices using Java,Spring Boot and Maven</b>.</li>
+  <li> Working on <b>Spring Restful Services and Spring Batch</b>.</li>
   <li> Managed <b>application deployments</b> on <b>Linux Servers</b> as well as on <b>Google Cloud</b> in Lower Environments.</li>
   <li> Knowledge of <b>CI/CD</b> tools such as <b>GoCD, Jenkins</b> etc.</li>
   <li> <b>API Testing</b> using <b>SoapUI</b> and <b>Postman</b> .</li>
