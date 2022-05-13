@@ -7,7 +7,6 @@
   <img src="images\java.png" alt="java" width="40" height="40"/>
   <img src="images\idea.png" alt="idea" width="40" height="40"/>
   <img src="images\spring.png" alt="spring" width="40" height="40"/>
-  <img src="images\api.png" alt="api" width="40" height="40"/>
   <img src="images\vscode.png" alt="vscode" width="40" height="40"/>
   <img src="images\mysql.png" alt="mysql" width="40" height="40"/>
   <img src="images\gcp.png" alt="gcp" width="40" height="40"/>
